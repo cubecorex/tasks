@@ -7,7 +7,6 @@
 
 ## Программа обучения
 ### Неделя #1
-- [Модуль "Знакомство с RS School"](modules/rs-school-intro/)
 - [Модуль "Профессия \"JS/Front-end разработчик\""](modules/js-fe-developer/)
 - [Модуль "Знакомство с системой контроля версий Git"](modules/git/)
 - [Модуль "Chrome Dev Tools, VS Code, Terminal"](modules/basic-tools/)
